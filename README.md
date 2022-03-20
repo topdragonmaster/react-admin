@@ -1,8 +1,8 @@
-# [React Admin - Free Admin Template Built with React and Bootstrap4](https://smart-dev30.github.io/react-admin/)
+# [React Admin - Free Admin Template Built with React and Bootstrap4]()
 
 ## Preview
 
-You can check out [live preview](https://smart-dev30.github.io/react-admin/).
+You can check out [live preview]().
 
 ## Quick Start
 
